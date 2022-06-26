@@ -28,9 +28,9 @@ You can contribute to this project in several ways:
 
 - *Actively contribute to discussions*. All discussions of this project are held in the [discussion page](/orgs/NL-Design-Skeleton/discussions). Everyone 
 - is free to start a discussion or participate. Final decisions 
-that do not lead to user stories are recorded in the [DESIGN.md](/NL-Design-Skeleton/.github/blob/main/DESIGN.md).
+that do not lead to user stories are recorded in the [DESIGN.md]([/NL-Design-Skeleton/.github/blob/main/DESIGN.md](https://github.com/NL-Design-Skeleton/.github/blob/main/DESIGN.md)).
 
 - *Contribution of code*. Each party is free to submit code to the project through a pull request. Please note that submitting code does not 
-automatically lead to acceptance. Read the [Contributing](/NL-Design-Skeleton/.github/blob/main/CONTRIBUTING.md) for a description
+automatically lead to acceptance. Read the [Contributing]([/NL-Design-Skeleton/.github/blob/main/CONTRIBUTING.md](https://github.com/NL-Design-Skeleton/.github/blob/main/CONTRIBUTING.md)) for a description
 of the delivery process and associated requirements.
 
